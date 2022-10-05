@@ -1,7 +1,7 @@
 ---
 title: "HelloWord"
 author: "Salma"
-date: "`r Sys.Date()`"
+date: "2022-10-05"
 output: pdf_document
 ---
 
@@ -10,3 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is a markdown file
+
