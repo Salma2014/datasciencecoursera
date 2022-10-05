@@ -9,4 +9,4 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is Markdown file
+## This is a markdown file
